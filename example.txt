@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-"This is an example file." 
->>>>>>> 693a2d9 (Added example.txt)
+"Completely new content in G24AIT123 branch." 
